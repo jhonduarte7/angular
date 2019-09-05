@@ -1,0 +1,5 @@
+package com.miempresa.app.backend.fillco.models.entity;
+
+public class Cliente {
+
+}
